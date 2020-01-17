@@ -1,0 +1,2 @@
+# inaplaku
+pattermaker/graficmaker/
